@@ -1,0 +1,5 @@
+1. pip install selenium
+2. firefox browser
+3. download geckodriver : https://github.com/mozilla/geckodriver/releases
+4. install geckodriver at add it's path on PATH system variables
+5. place geckodriver.exe on same folder with .py file
